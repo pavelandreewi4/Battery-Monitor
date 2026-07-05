@@ -1,0 +1,6 @@
+{
+  "name": "Teyes CC3 Battery Monitor",
+  "description": "Android app structure builder and interactive emulator for Teyes CC3 Car Battery Voltage Monitoring Service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
